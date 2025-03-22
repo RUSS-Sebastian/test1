@@ -2,5 +2,5 @@
 
 
 This is test2.
-I changed
-
+I changed.\n
+I pulled.
